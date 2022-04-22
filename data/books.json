@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "title": "Parable of the Sower",
+      "author": "Octavia E. Butler"
+    },
+    {
+      "title": "Hocus Pocus",
+      "author": "Kurt Vonnegut"
+    },
+    {
+      "title": "The Bell Jar",
+      "author": "Sylvia Plath"
+    },
+    {
+      "title": "Parable of the Talents",
+      "author": "Octavia E. Butler"
+    },
+    {
+      "title": "Breakfast of Champions",
+      "author": "Kurt Vonnegut"
+    },
+    {
+      "title": "Dance Dance Dance",
+      "author": "Haruki Murakami"
+    }
+  ]
+}
